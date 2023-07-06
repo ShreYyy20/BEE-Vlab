@@ -1,0 +1,66 @@
+#description{
+  background-color:#e7ebee; border-radius:10px; border:2px solid #090c01; position:absolute; left:10px; width:550px;
+}
+#ckt_values1{
+  position:relative; border: 2px solid #2c1c75;border-radius: 10px; left:560px;bottom:0px; height:200px; width:700px;
+  background-color:cornsilk;
+}
+#volts{
+  left:15cm;bottom:90px;position: absolute; ;
+}
+#voltage{
+left:30cm;bottom:120px;position:relative; background-color: aquamarine;width: 4cm;
+border: 2px solid black; border-radius: 5px;
+width:1.5cm; 
+text-size-adjust: 50px;}
+#current{
+left:29.5cm;bottom:225px;background-color: aquamarine; width:4.5cm; position:relative;border: 2px solid black; border-radius: 5px; width:1.5cm; 
+text-size-adjust: 50px;
+}
+#dtable {
+  width: 60%;
+  left:6cm;
+  position: relative;
+}
+#rl{
+  position: absolute;
+  left:850px;
+  bottom :510px;
+  width:4cm;
+
+}
+#loadresttf{ position: absolute;
+  left:885px;
+  bottom : 500px;
+  width:2.5cm;
+  border:5px;
+  font-style:italic;}
+#slideroutput{
+  position: absolute;
+  left:980px;   
+  bottom:490px;
+  width:25px;
+}
+
+.aps{
+    position: relative;
+    bottom:40px;
+    left:13cm;
+}
+#volts{
+  width: 0.1cm;
+  position : relative;
+  border: 20px;
+}
+table,th,td{  border: 1px solid black;text-align: center;background-color: blanchedalmond;}
+
+#powerdiv{
+  visibility: hidden
+  ;
+  display: none;
+}
+.chart{
+  width:800px;
+  align-self:center;
+  left:5cm;
+}
